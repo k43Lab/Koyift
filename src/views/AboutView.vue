@@ -5,8 +5,7 @@
     </template>
     <div class="description">
       <p>
-        k43Lab, a orgnization create by Muska_Ami(夏沫花火zzz🌙), Purpose for communicate about
-        technologies.
+        k43Lab, an organization created by Muska_Ami (夏沫花火zzz🌙), is designed to facilitate communication about technologies.
       </p>
       <p>Our members:</p>
       <div>
