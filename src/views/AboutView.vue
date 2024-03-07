@@ -25,9 +25,6 @@
           <li>
             <el-link href="https://github.com/shiftz300" target="_blank">Shiftz</el-link>, creator.
           </li>
-          <li>
-            <el-link href="https://blog.thynanami.com/" target="_blank">thyNanami</el-link>, other.
-          </li>
         </ul>
         <el-image src="/k43lab.png"></el-image>
       </div>
