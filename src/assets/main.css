@@ -1,5 +1,6 @@
 main .home-screen {
   overflow-y: auto;
+  overflow-x: hidden;
 }
 
 .header {
