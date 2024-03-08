@@ -1,7 +1,10 @@
 <template>
   <div class="home-screen">
     <div class="box">
-      <span></span>
+      <div class="center-box">
+        <h1>k43Lab</h1>
+        <span>A orgnization witch designed to facilitate communication about technologies.</span>
+      </div>
     </div>
     <div class="cards">
       <el-card>
@@ -9,7 +12,9 @@
           <span> Links </span>
         </template>
         <p>
-
+          <el-link href="https://github.com/k43Lab" target="_blank">
+            <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%20?style=flat-square&logo=github&logoColor=white&color=black">
+          </el-link>
         </p>
       </el-card>
     </div>
@@ -34,6 +39,16 @@
   width: 100%;
   backdrop-filter: blur(10px) !important;
   -webkit-backdrop-filter: blur(5px) !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.center-box {
+  background-color: rgba(64, 65, 65, 0.705);
+  padding: 3rem;
+  padding-top: 2rem;
+  border-radius: 3px;
 }
 
 .cards {
