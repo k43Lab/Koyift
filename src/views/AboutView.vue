@@ -22,7 +22,7 @@
             <el-link href="https://github.com/Daiyangcheng" target="_blank">Daiyangcheng</el-link>, creator.
           </li>
           <li>
-            <el-link href="https://github.com/shiftz300" target="_blank">Shiftz</el-link>, creator.
+            <el-link href="https://github.com/shiftz300" target="_blank">shiftz300</el-link>, creator.
           </li>
         </ul>
         <el-image src="/k43lab.png"></el-image>
